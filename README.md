@@ -4,30 +4,6 @@
 
 <h1 align="center">Venturalink</h1>
 
-<h3>📖 Table of Contents</h3> 
-
-- <a href="#overview"> Overview </a>
-- <a href="#project-insights"> Project Insights </a>
-- <a href="#vision"> 🇮🇳 The Vision: Digitising Governance at the Gram Panchayat Level  </a>
-- <a href="#demo"> Live Demo </a>
-- <a href="#screenshots"> Screenshots </a>
-- <a href="#core-features">Core Features</a>
-- <a href="#technology-stack"> Technology Stack </a>
-- <a href="#setup-instructions"> Setup Instructions </a>
-- <a href="#roadmap-enhancements">  Roadmap & Future Enhancements </a>
-- <a href="#acknowledgments">Acknowledgments</a>
-- <a href="#contact">Contact</a>
-- <a href="#how-to-contribute">How to Contribute</a>
-- <a href="#contributing">Contributing</a>
-- <a href="#code-of-conduct">Code of Conduct</a>
-- <a href="#contribution-guidelines">Contribution Guidelines</a>
-- <a href="#suggestions-feedback"> Suggestions & Feedback</a>
-- <a href="#show-your-support">Show Your Support</a>
-- <a href="#license">License</a>
-- <a href="#stargazers">Stargazers</a>
-- <a href="#forkers">Forkers</a>
-- <a href="#project-admin">Project Admin</a>
-
 <h2 id="overview">🔍 Overview</h2>
 
 > **Venturalink** is a full-stack web application designed to bridge the gap between investors and entrepreneurs in India. It empowers business owners with bold ideas to connect directly with potential investors through a clean, interactive, role-based dashboard. The platform acts as a private venture marketplace that promotes smart capital allocation, innovation, and growth.
