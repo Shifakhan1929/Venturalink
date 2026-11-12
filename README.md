@@ -457,7 +457,7 @@ This project is licensed under the MIT License - see the [`License`](https://git
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <h3 align="center"> 👨‍💻 Built with ❤️ by Venturalink Team</h3>
-<h4 align="center"> ❤️ Sagnik Chakraborty and Contributors ❤️ </h4>
+
 <p align="center">
   <a href="https://github.com/eccentriccoder01/Venturalink/issues">Open an Issue</a> | <a href="https://github.com/eccentriccoder01/Venturalink">🌟 Star on GitHub</a> | <a href="https://venturalink.vercel.app/index.html">🚀 Live Demo</a></p>
 
